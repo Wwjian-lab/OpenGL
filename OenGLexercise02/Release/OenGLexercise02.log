@@ -1,0 +1,20 @@
+﻿  mian.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+  d:\学习\大三下\实时图形设计\opengl\glad\include\glad\glad.h(42): note: 参见“APIENTRY”的前一个定义
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\shader.h(56): warning C4101: “e”: 未引用的局部变量
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\car.h(87): warning C4018: “>”: 有符号/无符号不匹配
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\car.h(96): warning C4018: “>”: 有符号/无符号不匹配
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(385): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(386): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(390): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(391): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(393): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(394): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\学习\大三下\实时图形设计\备份\oenglexercise6+assimp\oenglexercise02\mian.cpp(404): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 1227 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OenGLexercise02.vcxproj -> D:\学习\大三下\实时图形设计\备份\OenGLexercise6+assimp\Release\OenGLexercise02.exe
